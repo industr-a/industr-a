@@ -1,0 +1,47 @@
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.exe
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.pdb
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.xml
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.Form1.resources
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.Resources.resources
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.exe
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.xml
+C:\Users\cde01\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.pdb
+C:\Users\admin\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.exe
+C:\Users\admin\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.xml
+C:\Users\admin\Desktop\CourProg\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.pdb
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.exe
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.xml
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.pdb
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.Form1.resources
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.Resources.resources
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.exe
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.pdb
+C:\Users\admin\Desktop\CourProg\Programe évolué\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.xml
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.exe
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.xml
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.pdb
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.exe
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.pdb
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\bin\Debug\JeuEntreprise.xml
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.Form1.resources
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\JeuEntreprise.Resources.resources
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Documents\JeuEntreprise\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\bin\Debug\industrÿa.exe
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\bin\Debug\industrÿa.pdb
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\bin\Debug\industrÿa.xml
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.Form1.resources
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.Resources.resources
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.exe
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.xml
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.pdb
