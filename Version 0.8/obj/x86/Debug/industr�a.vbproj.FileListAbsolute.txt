@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.exe
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.xml
+C:\Users\admin\Desktop\JeuEntreprise\JeuEntreprise\obj\x86\Debug\industrÿa.pdb
+C:\Users\admin\Desktop\industrÿa\industrÿa\obj\x86\Debug\industrÿa.exe
+C:\Users\admin\Desktop\industrÿa\industrÿa\obj\x86\Debug\industrÿa.xml
+C:\Users\admin\Desktop\industrÿa\industrÿa\obj\x86\Debug\industrÿa.pdb
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\industrÿa.exe
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\industrÿa.xml
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\industrÿa.pdb
+C:\Users\admin\Desktop\industrÿa\bin\Debug\industrÿa.exe
+C:\Users\admin\Desktop\industrÿa\bin\Debug\industrÿa.pdb
+C:\Users\admin\Desktop\industrÿa\bin\Debug\industrÿa.xml
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\industrÿa.Form1.resources
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\industrÿa.Resources.resources
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\industrÿa\obj\x86\Debug\GenerateResource.write.1.tlog
